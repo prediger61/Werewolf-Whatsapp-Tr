@@ -1,0 +1,175 @@
+Date: 19/2/2022
+Time: 19:31
+Phone Number: +905378299854
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 19:32
+Phone Number: +905378299854
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 19:33
+Phone Number: +905378299854
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 19:35
+Phone Number: +905378299854
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 19:38
+Phone Number: +905378299854
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 19:39
+Phone Number: +905378299854
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 19:42
+Phone Number: +905378299854
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 19:55
+Phone Number: +905378299854
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 19:58
+Phone Number: +905347896706
+Message: Naber
+--------------------
+Date: 19/2/2022
+Time: 23:15
+Phone Number: +905378299854
+Message: ['KurtAdam \n Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.', 'Doktor \n Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin.', 'Alfa Gözcü \n AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.']
+--------------------
+Date: 19/2/2022
+Time: 23:17
+Phone Number: +905378299854
+Message: ['Silahşör \n Sen köyün RedKit’isin. Oyun başında 2 mermiye sahipsin. Her yeni gün başladığında istediğin kişiye sıkabilirsin, unutma 1 kez ateş ettiğinde rolün açığa çıkar.', 'Alfa KurtAdam \n Sen Alfa Kurt’sun, lanetin kaynağı, pisliğin tekisin.Kime saldırılacağını sen seçersin.Gözcü seni iyi biri olarak görür fakat asil gözcü senin rolünü görebilir.', 'Doktor \n Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin.']
+--------------------
+Date: 19/2/2022
+Time: 23:18
+Phone Number: +905378299854
+Message: ['KurtAdam \n Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.', 'KurtAdam \n Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.', 'Alfa KurtAdam \n Sen Alfa Kurt’sun, lanetin kaynağı, pisliğin tekisin.Kime saldırılacağını sen seçersin.Gözcü seni iyi biri olarak görür fakat asil gözcü senin rolünü görebilir.']
+--------------------
+Date: 19/2/2022
+Time: 23:19
+Phone Number: +905378299854
+Message: ['KurtAdam \n Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.', 'Belediye Başkanı (Mayor) \n Sıradan bir köylü olarak başlarsın. Ta ki kendi isteğinle rolünü açıklayana kadar. Masaya yumruğunu vurarak linç sırasında 2 oy kullanırsın.', 'Gözcü \n Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.']
+--------------------
+Date: 19/2/2022
+Time: 23:20
+Phone Number: +905378299854
+Message: ['Alfa Gözcü \n AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.', 'Soytarı \n Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin.', 'KurtAdam \n Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.']
+--------------------
+Date: 19/2/2022
+Time: 23:21
+Phone Number: +905378299854
+Message: ['Soytarı \n Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin.', 'Doktor \n Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin.', 'Soytarı \n Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin.']
+--------------------
+Date: 19/2/2022
+Time: 23:22
+Phone Number: +905378299854
+Message: ['Alfa KurtAdam \n Sen Alfa Kurt’sun, lanetin kaynağı, pisliğin tekisin.Kime saldırılacağını sen seçersin.Gözcü seni iyi biri olarak görür fakat asil gözcü senin rolünü görebilir.', 'Silahşör \n Sen köyün RedKit’isin. Oyun başında 2 mermiye sahipsin. Her yeni gün başladığında istediğin kişiye sıkabilirsin, unutma 1 kez ateş ettiğinde rolün açığa çıkar.', 'Silahşör \n Sen köyün RedKit’isin. Oyun başında 2 mermiye sahipsin. Her yeni gün başladığında istediğin kişiye sıkabilirsin, unutma 1 kez ateş ettiğinde rolün açığa çıkar.']
+--------------------
+Date: 19/2/2022
+Time: 23:23
+Phone Number: +905378299854
+Message: ['Doktor \n Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin.', 'Gözcü \n Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.', 'Alfa Gözcü \n AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.']
+--------------------
+Date: 19/2/2022
+Time: 23:24
+Phone Number: +905378299854
+Message: ['Gözcü \n Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.', 'KurtAdam \n Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.', 'KurtAdam \n Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.']
+--------------------
+Date: 19/2/2022
+Time: 23:25
+Phone Number: +905378299854
+Message: ['Belediye Başkanı (Mayor) \n Sıradan bir köylü olarak başlarsın. Ta ki kendi isteğinle rolünü açıklayana kadar. Masaya yumruğunu vurarak linç sırasında 2 oy kullanırsın.', 'Alfa Gözcü \n AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.', 'Belediye Başkanı (Mayor) \n Sıradan bir köylü olarak başlarsın. Ta ki kendi isteğinle rolünü açıklayana kadar. Masaya yumruğunu vurarak linç sırasında 2 oy kullanırsın.']
+--------------------
+Date: 19/2/2022
+Time: 23:30
+Phone Number: +905378299854
+Message: *Gözcü* Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.*Gözcü* Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.*Gözcü* Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.
+--------------------
+Date: 19/2/2022
+Time: 23:31
+Phone Number: +905378299854
+Message: *Soytarı* Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin.*Soytarı* Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin.*Soytarı* Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin.
+--------------------
+Date: 19/2/2022
+Time: 23:37
+Phone Number: +905432588061
+Message: *Alfa Gözcü* AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek. *Soytarı* Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin. *KurtAdam* Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.
+--------------------
+Date: 19/2/2022
+Time: 23:46
+Phone Number: +905432588061
+Message: *Belediye Başkanı (Mayor)* Sıradan bir köylü olarak başlarsın. Ta ki kendi isteğinle rolünü açıklayana kadar. Masaya yumruğunu vurarak linç sırasında 2 oy kullanırsın. *Doktor* Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin. *Silahşör* Sen köyün RedKit’isin. Oyun başında 2 mermiye sahipsin. Her yeni gün başladığında istediğin kişiye sıkabilirsin, unutma 1 kez ateş ettiğinde rolün açığa çıkar. asdıjkfaojsfaodflkjasodfaosdfıljkaofaıpsdşfkj
+--------------------
+Date: 19/2/2022
+Time: 23:51
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün*Alfa Gözcü*AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.Senin 2. Oyundaki Rolün*Gözcü*Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.Senin 3. Oyundaki Rolün*Soytarı*Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin.
+--------------------
+Date: 20/2/2022
+Time: 0:4
+Phone Number: +905070622128
+Message: Senin 1. Oyundaki Rolün *KurtAdam* Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın.Senin 2. Oyundaki Rolün *Gözcü*Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek.Senin 3. Oyundaki Rolün *Doktor*Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin.
+--------------------
+Date: 20/2/2022
+Time: 0:8
+Phone Number: +905070622128
+Message: Senin 1. Oyundaki Rolün *Gözcü*_Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek._Senin 2. Oyundaki Rolün *Doktor*_Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin._Senin 3. Oyundaki Rolün *Alfa KurtAdam*_Sen Alfa Kurt’sun, lanetin kaynağı, pisliğin tekisin.Kime saldırılacağını sen seçersin.Gözcü seni iyi biri olarak görür fakat asil gözcü senin rolünü görebilir._
+--------------------
+Date: 20/2/2022
+Time: 0:9
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün *Alfa Gözcü*_AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek._Senin 2. Oyundaki Rolün *Silahşör*_Sen köyün RedKit’isin. Oyun başında 2 mermiye sahipsin. Her yeni gün başladığında istediğin kişiye sıkabilirsin, unutma 1 kez ateş ettiğinde rolün açığa çıkar._Senin 3. Oyundaki Rolün *Gözcü*_Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek._
+--------------------
+Date: 20/2/2022
+Time: 0:10
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün *Alfa KurtAdam*_Sen Alfa Kurt’sun, lanetin kaynağı, pisliğin tekisin.Kime saldırılacağını sen seçersin.Gözcü seni iyi biri olarak görür fakat asil gözcü senin rolünü görebilir._Senin 2. Oyundaki Rolün *Belediye Başkanı (Mayor)*_Sıradan bir köylü olarak başlarsın. Ta ki kendi isteğinle rolünü açıklayana kadar. Masaya yumruğunu vurarak linç sırasında 2 oy kullanırsın._Senin 3. Oyundaki Rolün *Silahşör*_Sen köyün RedKit’isin. Oyun başında 2 mermiye sahipsin. Her yeni gün başladığında istediğin kişiye sıkabilirsin, unutma 1 kez ateş ettiğinde rolün açığa çıkar._
+--------------------
+Date: 20/2/2022
+Time: 0:11
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün *KurtAdam* _Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın._Senin 2. Oyundaki Rolün *Gözcü*_Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek._Senin 3. Oyundaki Rolün *Doktor*_Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin._
+--------------------
+Date: 20/2/2022
+Time: 0:12
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün *Doktor*_Sen köyün doktorusun. Her gece seçtiğin birini koruyabilirsin. Ancak kendini üst üste ancak 1 kere koruyabilirsin._Senin 2. Oyundaki Rolün *Soytarı*_Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin._Senin 3. Oyundaki Rolün *KurtAdam* _Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın._
+--------------------
+Date: 20/2/2022
+Time: 0:13
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün *Soytarı*_Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin._Senin 2. Oyundaki Rolün *Alfa KurtAdam*_Sen Alfa Kurt’sun, lanetin kaynağı, pisliğin tekisin.Kime saldırılacağını sen seçersin.Gözcü seni iyi biri olarak görür fakat asil gözcü senin rolünü görebilir._Senin 3. Oyundaki Rolün *KurtAdam* _Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın._
+--------------------
+Date: 20/2/2022
+Time: 0:14
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün *KurtAdam* _Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın._Senin 2. Oyundaki Rolün *KurtAdam* _Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın._Senin 3. Oyundaki Rolün *Soytarı*_Senin olayın linç yemek. Evet tam olarak bu.Kendini idam ettirmek için en iyi stratejiyi belirlemelisin.Gözcülere yakalanmamalısın yoksa silahşör tarafından öldürülüp oyunu kaybedersin._
+--------------------
+Date: 20/2/2022
+Time: 0:15
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün *Silahşör*_Sen köyün RedKit’isin. Oyun başında 2 mermiye sahipsin. Her yeni gün başladığında istediğin kişiye sıkabilirsin, unutma 1 kez ateş ettiğinde rolün açığa çıkar._Senin 2. Oyundaki Rolün *Alfa Gözcü*_AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek._Senin 3. Oyundaki Rolün *Alfa Gözcü*_AlfaGözcüler her gece birinin rolünü görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek._
+--------------------
+Date: 20/2/2022
+Time: 0:16
+Phone Number: +905378299854
+Message: Senin 1. Oyundaki Rolün *Belediye Başkanı (Mayor)*_Sıradan bir köylü olarak başlarsın. Ta ki kendi isteğinle rolünü açıklayana kadar. Masaya yumruğunu vurarak linç sırasında 2 oy kullanırsın._Senin 2. Oyundaki Rolün *KurtAdam* _Sen gözü dönmüş bir kurtsun. Her gün köylüleri kandırarak aralarına sızıp geceleri evlerinden kanlar içinde çıkarsın._Senin 3. Oyundaki Rolün *Belediye Başkanı (Mayor)*_Sıradan bir köylü olarak başlarsın. Ta ki kendi isteğinle rolünü açıklayana kadar. Masaya yumruğunu vurarak linç sırasında 2 oy kullanırsın._
+--------------------
+Date: 20/2/2022
+Time: 0:54
+Phone Number: +905432588061
+Message: Senin 1. Oyundaki Rolün *Belediye Başkanı (Mayor)*_Sıradan bir köylü olarak başlarsın. Ta ki kendi isteğinle rolünü açıklayana kadar. Masaya yumruğunu vurarak linç sırasında 2 oy kullanırsın._Senin 2. Oyundaki Rolün *Gözcü*_Gözcüler her gece birinin rolünün iyi(Köylü,Silahşör,Alfa KurtAdam,) ya da kötü(Soytarı,KurtAdam) olarak görebilir. Unutma eğer açığa çıkarsan kurtadamların hedefi olma ihtimalin yüksek._Senin 3. Oyundaki Rolün *Alfa KurtAdam*_Sen Alfa Kurt’sun, lanetin kaynağı, pisliğin tekisin.Kime saldırılacağını sen seçersin.Gözcü seni iyi biri olarak görür fakat asil gözcü senin rolünü görebilir._
+--------------------
